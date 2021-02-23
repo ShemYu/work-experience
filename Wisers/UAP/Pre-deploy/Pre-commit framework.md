@@ -14,3 +14,9 @@
   - Configuration 彈性 : .pre-commit-config.yaml
 
 - 調研藉由 pre-commit 建置內部使用狀況分析的可行性
+
+## Keyword
+- 代碼風格
+- pre-commit
+- git
+  
