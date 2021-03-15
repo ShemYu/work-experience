@@ -5,13 +5,4 @@
 from package import NER, NERModel
 NER(model=NERModel.model_a)
 ```
-
-payload 自動修正功能，藉由使用者客製 function input，自動對照 payload 應該修正的 key 進行修正:
-```python
-from package import Module
-Module.request(fix_function=lambda x:x[:1000])
-```
-當 catch Exception 時，就修正為前 1000 筆
-
-## Keyword
-- Development
+###### tags: `development`, `ner`

@@ -23,10 +23,4 @@ Doing check and fix
 1. 放下緊張
    - 緊張並不會讓我更安全，但是冷靜會
 
-
-## Keyword 
-- Sharing
-- 測試
-- 文件
-- 文件自動化生成
-- 代碼風格
+###### tags: `sharing`, `test`, `documentation`, `shpinx`, `coding style`

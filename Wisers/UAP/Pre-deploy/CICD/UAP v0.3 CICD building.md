@@ -16,13 +16,5 @@ CICD 部屬以下幾項工作:
 部屬之內容區分為 `PUSH`, `TAGS` 依照不同
 
 
-## Keyword
-- CI/CD
-- 發布流程
-- 測試
-- 封裝
-- Pypi
-- 文件
-- 文件自動化
-- 代碼風格
-- Docker
+  
+###### tags: `CI/CD`, `deploy`, `test`, `package`, `pypi`, `documentation`, `doctest`, `sphinx`, `coding style`, `docker`
