@@ -5,4 +5,6 @@
 from package import NER, NERModel
 NER(model=NERModel.model_a)
 ```
+藉由枚舉類別提供使用者相關模塊說明、模型選擇。
+
 ###### tags: `development`, `ner`
