@@ -6,4 +6,4 @@
 - 標準化回傳格式
 - 實現錯誤處理機制
 
-###### tags: `development`, `tokenize`, `ltp`, `error handle`
+###### tags: `development`, `error handling`

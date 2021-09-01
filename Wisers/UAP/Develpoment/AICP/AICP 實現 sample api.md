@@ -6,4 +6,4 @@
 - 更新 cicd control flow
 - 打通自動化產品化部署流程
 
-###### tags: `development`, `tokenize`, `ltp`, `error handle`
+###### tags: `development`, `production`, `cicd` `project structure`, `api framework`

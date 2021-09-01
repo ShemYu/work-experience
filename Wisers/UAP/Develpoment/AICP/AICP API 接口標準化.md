@@ -8,4 +8,4 @@
 - Up to date CICD control flow
 - Project structure
 
-###### tags: `development`, `error handle`, `api framework`, `cicd`
+###### tags: `development`, `error handling`, `api framework`, `cicd`
